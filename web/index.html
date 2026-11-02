@@ -217,6 +217,7 @@ function renderAnswer() {
 
 // ---- force layout + drawing ----
 function tick() {
+  requestAnimationFrame(tick);  // schedule first, so an early return or an error never stops the loop
   if (!S) return;
   const ns = S.nodes, byId = new Map(ns.map(n => [n.id, n]));
   const ps = ns.map(n => pos.get(n.id)).filter(Boolean);
@@ -233,7 +234,6 @@ function tick() {
     const sp = Math.hypot(p.vx, p.vy); if (sp > 6) { p.vx *= 6 / sp; p.vy *= 6 / sp; }
     p.x = Math.max(14, Math.min(W - 14, p.x + p.vx)); p.y = Math.max(14, Math.min(H - 14, p.y + p.vy)); }
   draw(byId);
-  requestAnimationFrame(tick);
 }
 function draw(byId) {
   ctx.clearRect(0, 0, W, H);
