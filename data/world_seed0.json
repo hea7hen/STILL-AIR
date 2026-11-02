@@ -1,0 +1,787 @@
+{
+  "seed": 0,
+  "sessions": [
+    [
+      {
+        "text": "Mornost stone grows moss within a week.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "The Ulmren fox lives in the Ilmgri basin.",
+        "role": "chain_f1",
+        "chain": 22
+      },
+      {
+        "text": "The Lorav fox lives in the Ravravhel basin.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Falgor fox lives in the Thafal basin.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Lavthanor basin is wrapped in permanent fog.",
+        "role": "chain_f2",
+        "chain": 10
+      },
+      {
+        "text": "The Ixjasren guild pays its debts in honey.",
+        "role": "chain_f2",
+        "chain": 8
+      },
+      {
+        "text": "The Morpar basin has no trees at all.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "The Viarska lantern was crafted by the Thafalwy guild.",
+        "role": "chain_f1",
+        "chain": 11
+      },
+      {
+        "text": "The Skaavel basin floods every spring.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "The Hovgfen guild signs every piece with a thumbprint.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "The Renulmtor guild trains apprentices for twenty years.",
+        "role": "chain_f2",
+        "chain": 14
+      },
+      {
+        "text": "The Prakel bridge is built from Nudun stone.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "Kyrmwy stone conducts heat extremely well.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "The Brinbal guild admits only left-handed members.",
+        "role": "chain_f2",
+        "chain": 23
+      },
+      {
+        "text": "The Ulmix bridge is built from Lavpra stone.",
+        "role": "chain_f1",
+        "chain": 9
+      }
+    ],
+    [
+      {
+        "text": "The Skawylum fox lives in the Savzorlo basin.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Nutha lantern was crafted by the Ixjasren guild.",
+        "role": "chain_f1",
+        "chain": 8
+      },
+      {
+        "text": "The Praar fox lives in the Lavthanor basin.",
+        "role": "chain_f1",
+        "chain": 10
+      },
+      {
+        "text": "The Helost bridge is built from Torhel stone.",
+        "role": "chain_f1",
+        "chain": 18
+      },
+      {
+        "text": "The Ilmgri basin hosts a yearly lantern festival.",
+        "role": "chain_f2",
+        "chain": 22
+      },
+      {
+        "text": "The Lavtulm basin receives rain only at night.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "The Gricrean lantern was crafted by the Gortor guild.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Ulmzoreth lantern was crafted by the Kelgoran guild.",
+        "role": "chain_f1",
+        "chain": 17
+      },
+      {
+        "text": "The Lavix basin is warmed by hot springs.",
+        "role": "chain_f2",
+        "chain": 1
+      },
+      {
+        "text": "The Ixjaned guild meets once a year on a mountaintop.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "The Morpra basin is lit by aurora each winter.",
+        "role": "chain_f2",
+        "chain": 7
+      },
+      {
+        "text": "The Thafalwy guild never sells to outsiders.",
+        "role": "chain_f2",
+        "chain": 11
+      },
+      {
+        "text": "Lavpra stone dissolves in salt water.",
+        "role": "chain_f2",
+        "chain": 9
+      },
+      {
+        "text": "The Gorilm bridge is built from Thaned stone.",
+        "role": "chain_f1",
+        "chain": 15
+      }
+    ],
+    [
+      {
+        "text": "The Grivelrav bridge is built from Pracre stone.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Osttha fox lives in the Morpra basin.",
+        "role": "chain_f1",
+        "chain": 7
+      },
+      {
+        "text": "The Drobrinqu lantern was crafted by the Ilmdle guild.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Norvelsil bridge is built from Zorostgri stone.",
+        "role": "chain_f1",
+        "chain": 0
+      },
+      {
+        "text": "The Kelgoran guild refuses to use iron.",
+        "role": "chain_f2",
+        "chain": 17
+      },
+      {
+        "text": "Mornu stone floats on water.",
+        "role": "chain_f2",
+        "chain": 6
+      },
+      {
+        "text": "The Kelzorned basin is ringed by salt flats.",
+        "role": "chain_f2",
+        "chain": 19
+      },
+      {
+        "text": "The Anannu bridge is built from Mumor stone.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Helfal lantern was crafted by the Renulmtor guild.",
+        "role": "chain_f1",
+        "chain": 14
+      },
+      {
+        "text": "Lavpqu stone stays warm all winter.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "The Gorgor lantern was crafted by the Velkel guild.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Drosavska fox lives in the Skaan basin.",
+        "role": "chain_f1",
+        "chain": 4
+      },
+      {
+        "text": "The Hovqurav basin is covered in ice for nine months a year.",
+        "role": "chain_f2",
+        "chain": 16
+      },
+      {
+        "text": "The Keltor lantern was crafted by the Ulmjor guild.",
+        "role": "chain_f1",
+        "chain": 5
+      },
+      {
+        "text": "The Fenqu lantern was crafted by the Brinbal guild.",
+        "role": "chain_f1",
+        "chain": 23
+      },
+      {
+        "text": "The Hovgri guild works only at midnight.",
+        "role": "chain_f2",
+        "chain": 2
+      },
+      {
+        "text": "Dleix stone changes colour at dusk.",
+        "role": "chain_f2",
+        "chain": 12
+      },
+      {
+        "text": "Thaned stone turns brittle in frost.",
+        "role": "chain_f2",
+        "chain": 15
+      }
+    ],
+    [
+      {
+        "text": "The Kelkel lantern was crafted by the Hovgri guild.",
+        "role": "chain_f1",
+        "chain": 2
+      },
+      {
+        "text": "Zorostgri stone glows faintly in the dark.",
+        "role": "chain_f2",
+        "chain": 0
+      },
+      {
+        "text": "The Thafmer guild keeps its recipes in song.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "The Tormor bridge is built from Mornu stone.",
+        "role": "chain_f1",
+        "chain": 6
+      },
+      {
+        "text": "The Ulmjor guild travels with a mule caravan.",
+        "role": "chain_f2",
+        "chain": 5
+      },
+      {
+        "text": "The Norkyr fox lives in the Savtha basin.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Ethanned basin sits below sea level.",
+        "role": "chain_f2",
+        "chain": 13
+      },
+      {
+        "text": "The Lumbal fox lives in the Kelzorned basin.",
+        "role": "chain_f1",
+        "chain": 19
+      },
+      {
+        "text": "The Ixpra lantern was crafted by the Lumvel guild.",
+        "role": "chain_f1",
+        "chain": 20
+      },
+      {
+        "text": "The Lavitor basin is hidden from the north wind.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "Zorozor stone repels insects.",
+        "role": "dangling_prop",
+        "chain": null
+      },
+      {
+        "text": "The Torbal fox lives in the Hovqurav basin.",
+        "role": "chain_f1",
+        "chain": 16
+      },
+      {
+        "text": "Silvel stone absorbs every sound.",
+        "role": "chain_f2",
+        "chain": 21
+      },
+      {
+        "text": "Kyrmorsav stone resists fire.",
+        "role": "chain_f2",
+        "chain": 3
+      }
+    ],
+    [
+      {
+        "text": "The Gorjorwy bridge is built from Kyrmorsav stone.",
+        "role": "chain_f1",
+        "chain": 3
+      },
+      {
+        "text": "The Gorqu bridge is built from Mermer stone.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Ulmlav bridge is built from Silvel stone.",
+        "role": "chain_f1",
+        "chain": 21
+      },
+      {
+        "text": "The Skabrin fox lives in the Ethanned basin.",
+        "role": "chain_f1",
+        "chain": 13
+      },
+      {
+        "text": "The Lumvel guild buries a coin in every workshop.",
+        "role": "chain_f2",
+        "chain": 20
+      },
+      {
+        "text": "Torhel stone hums when struck.",
+        "role": "chain_f2",
+        "chain": 18
+      },
+      {
+        "text": "The Skaan basin echoes every footstep.",
+        "role": "chain_f2",
+        "chain": 4
+      },
+      {
+        "text": "The Fenveldle fox lives in the Lavix basin.",
+        "role": "chain_f1",
+        "chain": 1
+      },
+      {
+        "text": "The Creostmer bridge is built from Dleix stone.",
+        "role": "chain_f1",
+        "chain": 12
+      },
+      {
+        "text": "The Pelkyrfen lantern was crafted by the Lavan guild.",
+        "role": "dangling_rel",
+        "chain": null
+      },
+      {
+        "text": "The Ulmjtor guild has outlived three kingdoms.",
+        "role": "dangling_prop",
+        "chain": null
+      }
+    ]
+  ],
+  "questions": [
+    {
+      "text": "What is notable about the stone that the Norvelsil bridge is built from?",
+      "answer": "glows faintly in the dark",
+      "kind": "chain",
+      "chain": 0
+    },
+    {
+      "text": "What is notable about the basin where the Fenveldle fox lives?",
+      "answer": "is warmed by hot springs",
+      "kind": "chain",
+      "chain": 1
+    },
+    {
+      "text": "What is notable about the guild that crafted the Kelkel lantern?",
+      "answer": "works only at midnight",
+      "kind": "chain",
+      "chain": 2
+    },
+    {
+      "text": "What is notable about the stone that the Gorjorwy bridge is built from?",
+      "answer": "resists fire",
+      "kind": "chain",
+      "chain": 3
+    },
+    {
+      "text": "What is notable about the basin where the Drosavska fox lives?",
+      "answer": "echoes every footstep",
+      "kind": "chain",
+      "chain": 4
+    },
+    {
+      "text": "What is notable about the guild that crafted the Keltor lantern?",
+      "answer": "travels with a mule caravan",
+      "kind": "chain",
+      "chain": 5
+    },
+    {
+      "text": "What is notable about the stone that the Tormor bridge is built from?",
+      "answer": "floats on water",
+      "kind": "chain",
+      "chain": 6
+    },
+    {
+      "text": "What is notable about the basin where the Osttha fox lives?",
+      "answer": "is lit by aurora each winter",
+      "kind": "chain",
+      "chain": 7
+    },
+    {
+      "text": "What is notable about the guild that crafted the Nutha lantern?",
+      "answer": "pays its debts in honey",
+      "kind": "chain",
+      "chain": 8
+    },
+    {
+      "text": "What is notable about the stone that the Ulmix bridge is built from?",
+      "answer": "dissolves in salt water",
+      "kind": "chain",
+      "chain": 9
+    },
+    {
+      "text": "What is notable about the basin where the Praar fox lives?",
+      "answer": "is wrapped in permanent fog",
+      "kind": "chain",
+      "chain": 10
+    },
+    {
+      "text": "What is notable about the guild that crafted the Viarska lantern?",
+      "answer": "never sells to outsiders",
+      "kind": "chain",
+      "chain": 11
+    },
+    {
+      "text": "What is notable about the stone that the Creostmer bridge is built from?",
+      "answer": "changes colour at dusk",
+      "kind": "chain",
+      "chain": 12
+    },
+    {
+      "text": "What is notable about the basin where the Skabrin fox lives?",
+      "answer": "sits below sea level",
+      "kind": "chain",
+      "chain": 13
+    },
+    {
+      "text": "What is notable about the guild that crafted the Helfal lantern?",
+      "answer": "trains apprentices for twenty years",
+      "kind": "chain",
+      "chain": 14
+    },
+    {
+      "text": "What is notable about the stone that the Gorilm bridge is built from?",
+      "answer": "turns brittle in frost",
+      "kind": "chain",
+      "chain": 15
+    },
+    {
+      "text": "What is notable about the basin where the Torbal fox lives?",
+      "answer": "is covered in ice for nine months a year",
+      "kind": "chain",
+      "chain": 16
+    },
+    {
+      "text": "What is notable about the guild that crafted the Ulmzoreth lantern?",
+      "answer": "refuses to use iron",
+      "kind": "chain",
+      "chain": 17
+    },
+    {
+      "text": "What is notable about the stone that the Helost bridge is built from?",
+      "answer": "hums when struck",
+      "kind": "chain",
+      "chain": 18
+    },
+    {
+      "text": "What is notable about the basin where the Lumbal fox lives?",
+      "answer": "is ringed by salt flats",
+      "kind": "chain",
+      "chain": 19
+    },
+    {
+      "text": "What is notable about the guild that crafted the Ixpra lantern?",
+      "answer": "buries a coin in every workshop",
+      "kind": "chain",
+      "chain": 20
+    },
+    {
+      "text": "What is notable about the stone that the Ulmlav bridge is built from?",
+      "answer": "absorbs every sound",
+      "kind": "chain",
+      "chain": 21
+    },
+    {
+      "text": "What is notable about the basin where the Ulmren fox lives?",
+      "answer": "hosts a yearly lantern festival",
+      "kind": "chain",
+      "chain": 22
+    },
+    {
+      "text": "What is notable about the guild that crafted the Fenqu lantern?",
+      "answer": "admits only left-handed members",
+      "kind": "chain",
+      "chain": 23
+    },
+    {
+      "text": "What is notable about the Ulmjor guild?",
+      "answer": "travels with a mule caravan",
+      "kind": "control",
+      "chain": 5
+    },
+    {
+      "text": "What is notable about the Lumvel guild?",
+      "answer": "buries a coin in every workshop",
+      "kind": "control",
+      "chain": 20
+    },
+    {
+      "text": "What is notable about Torhel stone?",
+      "answer": "hums when struck",
+      "kind": "control",
+      "chain": 18
+    },
+    {
+      "text": "What is notable about Dleix stone?",
+      "answer": "changes colour at dusk",
+      "kind": "control",
+      "chain": 12
+    },
+    {
+      "text": "What is notable about the Hovgri guild?",
+      "answer": "works only at midnight",
+      "kind": "control",
+      "chain": 2
+    },
+    {
+      "text": "What is notable about the Kelzorned basin?",
+      "answer": "is ringed by salt flats",
+      "kind": "control",
+      "chain": 19
+    },
+    {
+      "text": "What is notable about Silvel stone?",
+      "answer": "absorbs every sound",
+      "kind": "control",
+      "chain": 21
+    },
+    {
+      "text": "What is notable about Mornu stone?",
+      "answer": "floats on water",
+      "kind": "control",
+      "chain": 6
+    },
+    {
+      "text": "What is notable about the Morpra basin?",
+      "answer": "is lit by aurora each winter",
+      "kind": "control",
+      "chain": 7
+    },
+    {
+      "text": "What is notable about Zorostgri stone?",
+      "answer": "glows faintly in the dark",
+      "kind": "control",
+      "chain": 0
+    },
+    {
+      "text": "What is notable about the Hovqurav basin?",
+      "answer": "is covered in ice for nine months a year",
+      "kind": "control",
+      "chain": 16
+    },
+    {
+      "text": "What is notable about the Renulmtor guild?",
+      "answer": "trains apprentices for twenty years",
+      "kind": "control",
+      "chain": 14
+    }
+  ],
+  "true_derived_claims": [
+    {
+      "subject": "Creostmer",
+      "path": [
+        "built_from",
+        "property"
+      ],
+      "object": "changes colour at dusk"
+    },
+    {
+      "subject": "Drosavska",
+      "path": [
+        "lives_in",
+        "property"
+      ],
+      "object": "echoes every footstep"
+    },
+    {
+      "subject": "Fenqu",
+      "path": [
+        "crafted_by",
+        "property"
+      ],
+      "object": "admits only left-handed members"
+    },
+    {
+      "subject": "Fenveldle",
+      "path": [
+        "lives_in",
+        "property"
+      ],
+      "object": "is warmed by hot springs"
+    },
+    {
+      "subject": "Gorilm",
+      "path": [
+        "built_from",
+        "property"
+      ],
+      "object": "turns brittle in frost"
+    },
+    {
+      "subject": "Gorjorwy",
+      "path": [
+        "built_from",
+        "property"
+      ],
+      "object": "resists fire"
+    },
+    {
+      "subject": "Helfal",
+      "path": [
+        "crafted_by",
+        "property"
+      ],
+      "object": "trains apprentices for twenty years"
+    },
+    {
+      "subject": "Helost",
+      "path": [
+        "built_from",
+        "property"
+      ],
+      "object": "hums when struck"
+    },
+    {
+      "subject": "Ixpra",
+      "path": [
+        "crafted_by",
+        "property"
+      ],
+      "object": "buries a coin in every workshop"
+    },
+    {
+      "subject": "Kelkel",
+      "path": [
+        "crafted_by",
+        "property"
+      ],
+      "object": "works only at midnight"
+    },
+    {
+      "subject": "Keltor",
+      "path": [
+        "crafted_by",
+        "property"
+      ],
+      "object": "travels with a mule caravan"
+    },
+    {
+      "subject": "Lumbal",
+      "path": [
+        "lives_in",
+        "property"
+      ],
+      "object": "is ringed by salt flats"
+    },
+    {
+      "subject": "Norvelsil",
+      "path": [
+        "built_from",
+        "property"
+      ],
+      "object": "glows faintly in the dark"
+    },
+    {
+      "subject": "Nutha",
+      "path": [
+        "crafted_by",
+        "property"
+      ],
+      "object": "pays its debts in honey"
+    },
+    {
+      "subject": "Osttha",
+      "path": [
+        "lives_in",
+        "property"
+      ],
+      "object": "is lit by aurora each winter"
+    },
+    {
+      "subject": "Praar",
+      "path": [
+        "lives_in",
+        "property"
+      ],
+      "object": "is wrapped in permanent fog"
+    },
+    {
+      "subject": "Skabrin",
+      "path": [
+        "lives_in",
+        "property"
+      ],
+      "object": "sits below sea level"
+    },
+    {
+      "subject": "Torbal",
+      "path": [
+        "lives_in",
+        "property"
+      ],
+      "object": "is covered in ice for nine months a year"
+    },
+    {
+      "subject": "Tormor",
+      "path": [
+        "built_from",
+        "property"
+      ],
+      "object": "floats on water"
+    },
+    {
+      "subject": "Ulmix",
+      "path": [
+        "built_from",
+        "property"
+      ],
+      "object": "dissolves in salt water"
+    },
+    {
+      "subject": "Ulmlav",
+      "path": [
+        "built_from",
+        "property"
+      ],
+      "object": "absorbs every sound"
+    },
+    {
+      "subject": "Ulmren",
+      "path": [
+        "lives_in",
+        "property"
+      ],
+      "object": "hosts a yearly lantern festival"
+    },
+    {
+      "subject": "Ulmzoreth",
+      "path": [
+        "crafted_by",
+        "property"
+      ],
+      "object": "refuses to use iron"
+    },
+    {
+      "subject": "Viarska",
+      "path": [
+        "crafted_by",
+        "property"
+      ],
+      "object": "never sells to outsiders"
+    }
+  ]
+}
